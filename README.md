@@ -1,0 +1,1 @@
+# CKEditor_CKFinder
