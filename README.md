@@ -1,1 +1,1 @@
-# CKEditor_CKFinder
+# CKEditor_CKFinder demo
